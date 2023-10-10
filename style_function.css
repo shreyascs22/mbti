@@ -1,0 +1,17 @@
+h1{
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: linear-gradient(to left, rgb(14, 4, 89),black);
+    color: white;
+
+}
+p{
+    font-size: 18px;
+}
+img{
+    width: 600px;
+    height: 450px;
+}
