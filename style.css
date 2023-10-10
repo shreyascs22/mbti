@@ -1,0 +1,27 @@
+h1{
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: linear-gradient(to right, rgb(85, 10, 10),black);
+    color: white;
+}
+p{
+    font-size: 20px;
+}
+img{
+    border-radius: 50%;
+}  
+a{
+    font-size: 22px;
+}
+a:visited {
+    text-decoration: none;
+    color: yellow;
+}
+  
+a:hover {
+    text-decoration: none;
+    color: blue;
+}
