@@ -1,0 +1,46 @@
+h1{
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+.modal-content {
+    background-color: #d86d6d;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 20%;
+    height: fit-content;
+    position: relative;
+}
+  
+.close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button{
+    font-size: 20px;
+    width: 126px;
+    height: 70px;
+    margin-right: 50px;
+}
+img{
+    border-radius: 50%;
+    width: 800px;
+    height: 800px;
+}
+  
